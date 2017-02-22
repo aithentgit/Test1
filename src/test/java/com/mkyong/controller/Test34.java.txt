@@ -1,0 +1,13 @@
+package com.mkyong.controller;
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class Test34 {
+
+    @Test
+    public void someTest() {
+        assertTrue(true);
+    }
+
+}
